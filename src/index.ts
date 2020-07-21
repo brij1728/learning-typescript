@@ -1,6 +1,8 @@
 import "./index.css";
 
-import { add } from "./math";
+import "./chapter-01";
+
+import { add } from "./common/math";
 
 export class C {
   private x = 17;
